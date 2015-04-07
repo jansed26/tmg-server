@@ -52,9 +52,9 @@ $wgEmailAuthentication = true;
 
 ## Database settings
 $wgDBtype = "mysql";
-$wgDBserver = "mysql201406.intern.ispservices.at";
-$wgDBname = "db4171_techmus";
-$wgDBuser = "u4171_techmus";
+$wgDBserver = "localhost";
+$wgDBname = "techmus";
+$wgDBuser = "techmus";
 $wgDBpassword = "techims2015";
 
 # MySQL specific settings
